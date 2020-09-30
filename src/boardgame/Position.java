@@ -15,11 +15,11 @@ public class Position {
 	public void setRow(int row) {
 		this.row = row;
 	}
-	public int getComumn() {
+	public int getColumn() {
 		return column;
 	}
-	public void setComumn(int comumn) {
-		this.column = comumn;
+	public void setColumn(int column) {
+		this.column = column;
 	}
 	
 	@Override
